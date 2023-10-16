@@ -1,2 +1,2 @@
-# leetcode
-My solutions
+# 💻 Leetcode 😎
+My solutions 💻
